@@ -100,4 +100,4 @@ Yahya Adnan Ghadhban
 
 Zaynab Azad khdir
 
-Lavin Ismail Ahmad [Github](https://github.com/lavii1) | [Linkedin](https://www.linkedin.com/in/lavi-i-727468228/) | [Stack Overflow](https://stackoverflow.com/users/17626162/lavii)
+Lavin Esmail Ahmad [Github](https://github.com/lavii1) | [Linkedin](https://www.linkedin.com/in/lavi-i-727468228/) | [Stack Overflow](https://stackoverflow.com/users/17626162/lavii)
